@@ -66,6 +66,12 @@ article {
         list-style-image: none;
         list-style-type: disc;
     }
+
+    form {
+        background-color: #312f2d;
+        border-radius: 0.5rem;
+        padding: 0.75rem;
+    }
 }
 
 main {
@@ -85,5 +91,35 @@ main {
         ul {
             padding-left: 0;
         }
+    }
+}
+
+.input {
+    background: #eeeeee;
+    border: none;
+    border-radius: 2px;
+    padding: 0.5rem;
+}
+
+.button {
+    background: #3a3a39;
+    border: none;
+    border-radius: 2px;
+    color: #eeeeee;
+    font-weight: bold;
+    padding: 0.5rem;
+
+    & + & {
+        margin-left: 0.5rem;
+    }
+
+    &.primary {
+        background: #eeeeee;
+        color: #1c1c1c;
+    }
+
+    &.secondary {
+        background: #1c1c1c;
+        color: #eeeeee;
     }
 }

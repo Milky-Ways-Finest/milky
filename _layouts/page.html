@@ -4,3 +4,35 @@ layout: default
 {{ content }}
 
 <p>{% github_edit_link "Szerkesztés" %}</p>
+<p><a class="js-add-page-link" href="{{ site.github.repository_url }}/new/master{{ page.dir }}" target="_blank">Adj hozzá egy új oldalt ugyanitt</a></p>
+<form class="js-add-page-form" method="GET" action="{{ site.github.repository_url }}/new/master{{ page.dir }}" target="_blank" hidden>
+    <p><label for="add-page-title">Cím:</label></p>
+    <p><input id="add-page-title" class="input js-add-page-title" type="text" placeholder="pl. Overkill"></p>
+    <input class="js-add-page-filename" type="hidden" name="filename">
+    <input class="js-add-page-body" type="hidden" name="value">
+    <p>
+        <button class="button primary" type="submit">Mehet</button>
+        <button class="button secondary js-add-page-cancel" type="button">Mégse</button>
+    </p>
+</form>
+<script>
+(() => {
+    const q = document.querySelector;
+    document.querySelector('.js-add-page-link').addEventListener('click', (e) => {
+        e.preventDefault();
+        document.querySelector('.js-add-page-form').removeAttribute('hidden');
+        document.querySelector('.js-add-page-title').focus();
+        document.querySelector('.js-add-page-cancel').scrollIntoView({ behavior: 'smooth' });
+    }, false);
+    document.querySelector('.js-add-page-cancel').addEventListener('click', (e) => {
+        e.preventDefault();
+        document.querySelector('.js-add-page-form').setAttribute('hidden', true);
+    }, false);
+    document.querySelector('.js-add-page-form').addEventListener('submit', () => {
+        // e.preventDefault();
+        const title = document.querySelector('.js-add-page-title').value;
+        document.querySelector('.js-add-page-filename').value = `${title}.md`;
+        document.querySelector('.js-add-page-body').value = `${title}\n----\nIde jöhet a tartalom`;
+    }, true);
+})();
+</script>
