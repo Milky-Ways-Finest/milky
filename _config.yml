@@ -23,7 +23,7 @@ email: freevo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   RPG jegyzetek.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://milky-ways-finest.space/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://milky-ways-finest.space" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  FrivaszkyP
 
 # Build settings
