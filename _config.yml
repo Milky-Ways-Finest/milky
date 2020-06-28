@@ -52,6 +52,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include:
+  - CNAME
+
 github:
   source:
     branch: master
