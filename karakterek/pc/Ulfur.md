@@ -5,10 +5,10 @@ Aspektusok
 ------
 
 * High Concept: Zsoldos, csempész, hadúr (ember viking/gypsy)
-* Trouble     : kiskirályság fenntartása
-* - dicső harcos
-* - I have a kingdom
-* - alvilági kapcsolatok
+* Trouble: kiskirályság fenntartása
+* Dicső harcos
+* I have a kingdom
+* Alvilági kapcsolatok
 
 Approachok
 ------
