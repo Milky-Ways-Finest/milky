@@ -17,5 +17,5 @@ Approaches
 * Clever: +0
 * Flashy: +3
 * Forceful: +2
-* Quick: +2
-* Sneaky: +1
+* Quick: +1
+* Sneaky: +4
