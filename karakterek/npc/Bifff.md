@@ -3,7 +3,7 @@ Bifff
 
 Aspects
 ------
-* High Concept: 
+* High Concept: Jól megtermett ugla űrkamionos
 * Trouble: 
 * Több mint ezer éve lakója a Tenebra állomásnak
 * 
