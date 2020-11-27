@@ -4,27 +4,27 @@ Ulfur
 Aspektusok
 ------
 
-* A
-* B
-* C
-* D
-* E
+* High Concept: Zsoldos, csempész, hadúr (ember viking/gypsy)
+* Trouble     : kiskirályság fenntartása
+* - dicső harcos
+* - I have a kingdom
+* - alvilági kapcsolatok
 
 Approachok
 ------
 
-* A
-* B
-* C
-* D
-* E
-
+* Refresh 5
+* Careful: +2
+* Clever:  +1
+* Flashy:  +0
+* Quick:   +4
+* Sneaky:  +1
 
 Stuntok
 ------
 
-* A
-* B
-* C
-* D
-* E
+* Harci üvöltés:  +2 Force Attack
+* Berserker:      +2 Force Defend
+* Gyors kitérés:  +2 Quick Defend
+* Késsel!:        +2 Quick Attack
+
