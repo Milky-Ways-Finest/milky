@@ -57,7 +57,7 @@ A Hernyók és a Hydro Szövetség közt megromlott a viszony, a Hernyóktól le
 Belement, 1 évig kémkedett a Hydro Szövetség Buborékvárosában, mikor kleptomániája felülkerekedett és több betörést is elkövetett. Lebukott, menekülnie kellett. Konzorcium által működtetett bérgyilkos PMC-ket küldtek rá. Egyik szemét elvesztette, de túlélte őket.
 
 2 éve jelentett utoljára a Hernyóknak. Eléggé szégyenli magát + fél, hogy ráakad a Hydro nemessége.
-Szülei megszervezték a házasságát, ő félt, hogy lebukik, hogy kémkedik, ezért elszabotálta: ellopta leendő anyósától annak anyjának hamvait + a családi ékszereket úgy, hogy biztos tudják, hogy ő volt. Lelépett, a szülei pedig ez után nem keresték...
+Szülei megszervezték a házasságát, ő félt, hogy lebukik, hogy kémkedik, ezért elszabotálta: ellopta leendő apósától annak anyjának hamvait + a családi ékszereket úgy, hogy biztos tudják, hogy ő volt. Lelépett, a szülei pedig ez után nem keresték...
 
 
 Questions
