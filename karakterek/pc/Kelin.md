@@ -39,7 +39,7 @@ Equipment, Loot
 
 Actual Compel
 ------
--
+x
 
 Appearance
 ------
@@ -66,10 +66,13 @@ Szülei megszervezték a házasságát, ő félt, hogy lebukik, hogy kémkedik, 
 Questions
 ------
 * What makes your character get out of bed in the morning?
+
 Minél több drága, csillogó tárgyat szerezni.
 
 * What keeps your character awake at night?
+
 Rátalál a Hydro nemesség.    
 
 * What would your character dive into fire to obtain?
+
 Birodalmi koronázási ékszerek.
