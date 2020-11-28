@@ -6,8 +6,6 @@ Aspects
 * High Concept: Jól megtermett ugla űrkamionos
 * Trouble: 
 * Több mint ezer éve lakója a Tenebra állomásnak
-* 
-* 
 
 Approaches
 ------
