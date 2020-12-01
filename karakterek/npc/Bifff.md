@@ -1,6 +1,8 @@
 Bifff
 =======
 
+[Karakterleírás wikipage]
+
 Aspects
 ------
 * High Concept: Jól megtermett ugla űrkamionos
@@ -17,3 +19,5 @@ Approaches
 * Forceful: +2
 * Quick: +1
 * Sneaky: +4
+
+[Karakterleírás]: <https://github.com/Milky-Ways-Finest/missions/wiki/NJK:-Bifff>
