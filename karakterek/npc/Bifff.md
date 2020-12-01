@@ -20,4 +20,4 @@ Approaches
 * Quick: +1
 * Sneaky: +4
 
-[Karakterleírás]: <https://github.com/Milky-Ways-Finest/missions/wiki/NJK:-Bifff>
+[Karakterleírás wikipage]: <https://github.com/Milky-Ways-Finest/missions/wiki/NJK:-Bifff>
