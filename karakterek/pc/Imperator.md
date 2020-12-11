@@ -1,1 +1,1 @@
-Pengan önjelölt bulicsászára.
+Pengan önjelölt bulicsászára, hivatalosan királya.
