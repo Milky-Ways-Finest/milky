@@ -20,6 +20,7 @@ Approaches
 * Quick: +4
 * Sneaky: +4
 
+* Faith points: 9
 
 Stunts
 ------
