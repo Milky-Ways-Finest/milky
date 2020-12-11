@@ -9,10 +9,13 @@ Aspects
 * Méregmester
 * Könnyűtestű, halk mozgású, de sebezhető
 
-Approaches
+Stats
 ------
 * Refresh: 4
+* Faith points: 9
 
+Approaches
+------
 * Careful: +2
 * Clever: +2
 * Flashy: +1
@@ -20,7 +23,6 @@ Approaches
 * Quick: +4
 * Sneaky: +4
 
-* Faith points: 9
 
 Stunts
 ------
