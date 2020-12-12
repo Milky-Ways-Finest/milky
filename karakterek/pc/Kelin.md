@@ -60,10 +60,15 @@ Tüdeje sokat gyógyult, de kb 40%-os kapacitáson működik, ez a hétköznapok
 
 Mikor szülei pár évvel később visszatértek az Únióba, ő maradni akart.
 A Hernyók és a Hydro Szövetség közt megromlott a viszony, a Hernyóktól lehetőséget kapott, hogy kiképzik kémnek és ezzel végleg elfelejtik a régi incidenst.
-Belement, 1 évig kémkedett a Hydro Szövetség Buborékvárosában, mikor kleptomániája felülkerekedett és több betörést is elkövetett. Lebukott, menekülnie kellett. Konzorcium által működtetett bérgyilkos PMC-ket küldtek rá. Egyik szemét elvesztette, de túlélte őket.
+Belement, 1 évig kémkedett a Hydro Szövetség Buborékvárosában.
+Mikor szabadsága alatt hazaköltözött, szülei megszervezték a házasságát Elior Klosto maffiafőnök lányával. Kelin félt, hogy kiderül kémkedős tevékenysége, ezért elszabotálta az esküvőt: ellopta leendő apósától annak anyjának hamvait, plusz a családi ékszereket is úgy, hogy biztos tudják: ő volt. Lelépett, a szülei pedig ez után nem keresték...
 
-2 éve jelentett utoljára a Hernyóknak. Eléggé szégyenli magát + fél, hogy ráakad a Hydro nemessége.
-Szülei megszervezték a házasságát, ő félt, hogy lebukik, hogy kémkedik, ezért elszabotálta: ellopta leendő apósától annak anyjának hamvait + a családi ékszereket úgy, hogy biztos tudják, hogy ő volt. Lelépett, a szülei pedig ez után nem keresték...
+Visszatért a Buborékvárosba, folytatta a kémtevékenységet, de kleptomániája felülkerekedett és több betörést is elkövetett. Lebukott, menekülnie kellett. 
+
+Közben Elior Klosto Konzorciumból toborzott bérgyilkos PMC-ket küldött rá, bosszúja elől nem volt hova bújni. Kelin egyik szemét elvesztette, de túlélte a támadásokat. Megrendezte a halálát, erősen remélte, hogy hihetően. A konzorcium fejvadászaival folytatott összecsapás során ismerkedett meg Ulfurral az űrvikinggel, majd később Imperator Rexszel, a galateán bulicsászárral.
+
+2 éve jelentett utoljára a Hernyóknak. Eléggé szégyenli magát a lebukás miatt és fél is, hogy ráakad a Hydro nemessége, vagy Klosto emberei.
+
 
 
 Questions
