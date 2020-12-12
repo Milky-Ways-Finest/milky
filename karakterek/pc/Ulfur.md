@@ -19,6 +19,7 @@ Approachok
 * Flashy:  +0
 * Quick:   +4
 * Sneaky:  +1
+* Forceful:+6
 
 Stuntok
 ------
