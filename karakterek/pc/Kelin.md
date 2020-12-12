@@ -50,7 +50,7 @@ Magas, nyúlánk humanoid macskaféle.
 
 Background
 ------
-Multikulti Únióból származik, a szülei a Tudós Hernyók bolygóján voltak diplomaták.
+A multikulti FŰRÉSZ Únióból származik, a szülei a Tudós Hernyók bolygóján voltak diplomaták.
 Már fiatal korában kiütközött a fényes tárgyak eltulajdonításának vágya, emiatt sokszor kellemetlen helyzetbe hozta magát és szüleit.
 
 Végül egy laboratóriumba tört be és egy terraformáló berendezésből lopott volna kristályokat, amikor terraformálásnál használatos gáz szabadult ki és súlyosan roncsolta a tüdejét. A Hernyók megmentették, folyadékban tartották huzamosabb ideig és mesterségesen táplálták oxigénnel. A tüdeje túl erősen károsodott, ezért kopoltyúkat növesztettek rá.
