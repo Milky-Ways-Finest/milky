@@ -39,6 +39,7 @@ Equipment, Loot
 * Vizi bányász szkafander
 * Űrlift személyzet álcaruha
 * Odrienne lelke ékkő
+* Optikai pontosságú kristályok
 
 Actual Compel
 ------
