@@ -14,7 +14,8 @@ Aspects
 
 Approaches
 ------
-* Refresh: 5
+
+Refresh: 5
 
 * Careful: +1
 * Clever: +5
