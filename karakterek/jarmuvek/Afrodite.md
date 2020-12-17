@@ -28,9 +28,9 @@ Approaches
 Stunts
 -----
 
-Hátsó szándék: behatolókapszula - alkalmanként egyszer használható
-Transzponder-hamisító berendezés +2 Sneaky
-Lopakodó üzemmód +2 Sneaky
+* Hátsó szándék: behatolókapszula - alkalmanként egyszer használható
+* Transzponder-hamisító berendezés +2 Sneaky
+* Lopakodó üzemmód +2 Sneaky
 
 
 [Karakterleírás wikipage](https://github.com/Milky-Ways-Finest/missions/wiki/J%C3%A1rm%C5%B1:%20Afrodit%C3%A9)
