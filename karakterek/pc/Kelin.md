@@ -5,6 +5,7 @@ Aspects
 ------
 * High Concept: Hotshot syle fajú betörő ninja (macskaszerű humán)
 * Trouble: egy kaland értékesebb, mint a végtelen luxus
+* Trouble: sokkal tartozik Ulfurnak
 * Kopoltyú bioware
 * Méregmester
 * Könnyűtestű, halk mozgású, de sebezhető
