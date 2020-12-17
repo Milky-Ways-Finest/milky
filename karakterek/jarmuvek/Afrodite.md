@@ -19,11 +19,11 @@ Approaches
 * Careful: +1
 * Clever: +5
 * Flashy: +0
-* Forceful: +1
+* Forceful: +2
 * Quick: +3
-* Sneaky: +2
+* Sneaky: +4
 
-Össz: 12
+Össz: 15
 
 Stunts
 -----
