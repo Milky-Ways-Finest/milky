@@ -13,7 +13,7 @@ Aspects
 Stats
 
     Refresh: 3(+3)
-    Faith points: 6 (2020-12-17)
+    Faith points: 5 (2020-12-17)
 
 Approaches
 
