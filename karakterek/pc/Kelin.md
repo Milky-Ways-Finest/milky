@@ -4,7 +4,7 @@ Kelin Broslowski (Kelin a syle)
 Aspects
 ------
 * High Concept: Hotshot syle fajú betörő ninja (macskaszerű humán)
-* Trouble: Csillogó értékek iránti vágy
+* Trouble: egy kaland értékesebb, mint a végtelen luxus
 * Kopoltyú bioware
 * Méregmester
 * Könnyűtestű, halk mozgású, de sebezhető
