@@ -7,18 +7,18 @@ Aspektusok
 * High Concept: Zsoldos, csempész, hadúr (ember viking/gypsy)
 * Trouble: kiskirályság fenntartása
 * Dicső harcos
-* I have a kingdom
+* Műkincsek iránti "rajongás"
 * Alvilági kapcsolatok
 
 Approachok
 ------
 
-* Refresh 5
+* Refresh   5
 * Careful: +2
 * Clever:  +1
 * Flashy:  +0
-* Quick:   +5
 * Sneaky:  +1
+* Quick:   +5
 * Forceful:+6
 
 Stuntok
