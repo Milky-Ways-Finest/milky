@@ -21,9 +21,9 @@ Approaches
     Clever: +1
     Flashy: +2
     Forceful: +6
-    Quick: +2
+    Quick: +4
     Sneaky: +1
-    +3
+    +1
 
 Stunts
 3(+3)
