@@ -12,8 +12,8 @@ Aspects
 
 Stats
 
-    Refresh: 4
-    Faith points:  (2020-12-11)
+    Refresh: 3(+3)
+    Faith points: 8 (2020-12-11)
 
 Approaches
 
@@ -23,9 +23,10 @@ Approaches
     Forceful: +3
     Quick: +2
     Sneaky: +1
+    +6
 
 Stunts
-
+3(+3)
     
 
 
