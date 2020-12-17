@@ -12,7 +12,7 @@ Aspects
 
 Stats
 
-    Refresh: 3(+3)
+    Refresh: 3(+2)
     Faith points: 5 (2020-12-17)
 
 Approaches
@@ -26,7 +26,8 @@ Approaches
     +1
 
 Stunts
-3(+3)
+4(+2)
+    
     Big Fucking Omnigun: +2 Forceful lövöldözésre
     
     Pengan Lelke: játékalkalmanként egyszer megment az ereklye
