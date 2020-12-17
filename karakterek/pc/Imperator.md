@@ -1,1 +1,31 @@
 Pengan önjelölt bulicsászára, hivatalosan királya.
+
+
+Imperator Rex (Galatean)
+Aspects
+
+    High Concept: Galateán Ex-bulicsászár
+    Trouble: Bosszúvágy, Sötétség. Meg kell ölni Pengan trónbitorlóját!
+    Elit testőr dezertőr
+    High-tech Cyborg Omni-Gun-nal
+    Pengan Lelke ősi ereklye
+
+Stats
+
+    Refresh: 4
+    Faith points:  (2020-12-11)
+
+Approaches
+
+    Careful: 0
+    Clever: +1
+    Flashy: +2
+    Forceful: +3
+    Quick: +2
+    Sneaky: +1
+
+Stunts
+
+    
+
+
