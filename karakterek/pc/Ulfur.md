@@ -17,7 +17,7 @@ Approachok
 * Careful: +2
 * Clever:  +1
 * Flashy:  +0
-* Quick:   +4
+* Quick:   +5
 * Sneaky:  +1
 * Forceful:+6
 
