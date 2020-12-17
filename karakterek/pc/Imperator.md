@@ -28,7 +28,11 @@ Approaches
 Stunts
 3(+3)
     Big Fucking Omnigun: +2 Forceful lövöldözésre
+    
     Pengan Lelke: játékalkalmanként egyszer megment az ereklye
+    
     Kőtest: +2 Defence sérüléssel szemben
+    
+    Szepererő: +2 Forceful közelharcra
 
 
