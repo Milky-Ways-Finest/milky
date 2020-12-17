@@ -7,7 +7,7 @@ Afrodité
 Aspects
 ------
 * High Concept: Élő hajtómű
-* Trouble: Sértődékeny:
+* Trouble: Sértődékeny (ha megsértődik, rosszul kalkulál)
 * Naftahasználó hajtómű
 * Fejlett érzékelők
 * Fizikai tested tud ölteni
