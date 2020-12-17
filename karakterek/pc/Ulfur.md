@@ -12,8 +12,9 @@ Aspektusok
 
 Approachok
 ------
-
 * Refresh   5
+* Aktuális  6
+
 * Careful: +2
 * Clever:  +1
 * Flashy:  +0
