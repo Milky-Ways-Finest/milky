@@ -10,7 +10,7 @@ Aspects
 * Trouble: Sértődékeny (ha megsértődik, rosszul kalkulál)
 * Naftahasználó hajtómű
 * Fejlett érzékelők
-* Fizikai tested tud ölteni
+* Fizikai testet tud ölteni
 
 Approaches
 ------
