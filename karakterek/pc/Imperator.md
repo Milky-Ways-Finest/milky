@@ -12,8 +12,8 @@ Aspects
 
 Stats
 
-    Refresh: 3(+2)
-    Faith points: 3 (2021-01-07)
+    Refresh: 4
+    Faith points: 0 (2021-01-07)
 
 Approaches
 
@@ -25,7 +25,7 @@ Approaches
     Sneaky: +1
 
 Stunts
-4(+2)
+5
     
     Big Fucking Omnigun: +2 Forceful lövöldözésre
     
@@ -33,6 +33,8 @@ Stunts
     
     Kőtest: +2 Defence sérüléssel szemben
     
-    Szepererő: +2 Forceful közelharcra
+    Szupererő: +2 Forceful közelharcra
+    
+    Kőbőr: +2 stressz kocka
 
 
