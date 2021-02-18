@@ -52,15 +52,15 @@ Magas, nyúlánk humanoid macskaféle.
 
 Background
 ------
-A multikulti FŰRÉSZ Únióból származik, a szülei a Tudós Hernyók bolygóján voltak diplomaták.
+A multikulti FŰRÉSZ Unióból származik, szülei a Tudós Hernyók bolygóján voltak diplomaták.
 Már fiatal korában kiütközött a fényes tárgyak eltulajdonításának vágya, emiatt sokszor kellemetlen helyzetbe hozta magát és szüleit.
 
-Végül egy laboratóriumba tört be és egy terraformáló berendezésből lopott volna kristályokat, amikor terraformálásnál használatos gáz szabadult ki és súlyosan roncsolta a tüdejét. A Hernyók megmentették, folyadékban tartották huzamosabb ideig és mesterségesen táplálták oxigénnel. A tüdeje túl erősen károsodott, ezért kopoltyúkat növesztettek rá.
+Végül egy laboratóriumba tört be és egy terraformáló berendezésből lopott volna kristályokat, amikor terraformálásnál használatos gáz szabadult ki és súlyosan roncsolta a tüdejét. A Hernyók megmentették, folyadékban tartották huzamosabb ideig és mesterségesen táplálták oxigénnel. Tüdeje túl erősen károsodott, ezért Kelinre kopoltyúkat növesztettek.
 
 A Hydro szövetség nagyköveteinek rokonaival tudott így leginkább társasági életet élni.
 Tüdeje sokat gyógyult, de kb 40%-os kapacitáson működik, ez a hétköznapokban nem zavarja.
 
-Mikor szülei pár évvel később visszatértek az Únióba, ő maradni akart.
+Mikor szülei pár évvel később visszatértek az Unióba, ő maradni akart.
 A Hernyók és a Hydro Szövetség közt megromlott a viszony, a Hernyóktól lehetőséget kapott, hogy kiképzik kémnek és ezzel végleg elfelejtik a régi incidenst.
 Belement, 1 évig kémkedett a Hydro Szövetség Buborékvárosában.
 Mikor szabadsága alatt hazaköltözött, szülei megszervezték a házasságát Elior Klosto maffiafőnök lányával. Kelin félt, hogy kiderül kémkedős tevékenysége, ezért elszabotálta az esküvőt: ellopta leendő apósától annak anyjának hamvait, plusz a családi ékszereket is úgy, hogy biztos tudják: ő volt. Lelépett, a szülei pedig ez után nem keresték...
