@@ -46,9 +46,13 @@ Actual Compel
 ------
 x
 
-Appearance
+Megjelenés
 ------
 Magas, nyúlánk humanoid macskaféle.
+
+Rokonok
+------
+Apja: Chedar Broslowski
 
 Background
 ------
