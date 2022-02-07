@@ -34,7 +34,7 @@ Stats
 </details>
 
 <details>
-  <summary>Új rendszer szerint</summary>
+  <summary>Faith Core + háziszabályok szerint</summary>
 
 ### Refresh: 6
 
