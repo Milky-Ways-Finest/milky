@@ -1,8 +1,8 @@
 Kelin Broslowski (Kelin a syle)
 =======
 
-Aspects
-------
+## Aspects
+
 * High Concept: Hotshot syle fajú betörő ninja (macskaszerű humán)
 * Trouble: egy kaland értékesebb, mint a végtelen luxus
 * Trouble: sokkal tartozik Ulfurnak
@@ -15,29 +15,60 @@ Stats
 <details>
   <summary>Faith Accelerated statisztikák szerint</summary>
 
-* Refresh: 4
-* Faith points: 4 (2021-01-07)
+### Refresh: 4
 
-Approaches
-------
+### Approaches
 * Careful: +2
 * Clever: +2
 * Flashy: +1
 * Forceful: +1
 * Quick: +5
 * Sneaky: +4
-</details>
 
-Stunts
-------
+### Stunts
 * Meglepetés esetén +2 attack fizikai támadás esetén (sneaky)
 * Méregfiola dobálás harc közben (create advantage) (quick)
 * Elsőnek mozdul események belendülése előtti pillanatban
 * Kalandonként 1x egy ismeretlen szimpatikusnak talál
 
+</details>
 
-Equipment, Loot
-------
+<details>
+  <summary>Új rendszer szerint</summary>
+
+### Refresh: 6
+
+### Physical
+* Fight: 3
+* Move: 4
+* Physique: 1
+* Pilot: 0
+* Shoot/Perception: 2
+* Stealth: 3
+
+### Mental
+* Intellect: 0
+* Investigate: 1
+* Streetwise: 2
+* Technology: 0
+
+### Social
+* Charisma: 1
+* Intimidation: 0
+* Manipulation: 0
+* Resources: 0
+
+### Stunts (3)
+* ((Meglepetés esetén +2 attack fizikai támadás esetén (stealth)))
+* Méregfiola dobálás harc közben (create advantage) (move)
+* Elsőnek mozdul események belendülése előtti pillanatban
+* Kalandonként 1x egy ismeretlen szimpatikusnak talál
+
+</details>
+
+-----
+
+## Equipment, Loot
 * Pókméreg
 * Póklézer
 * Vizi bányász szkafander
@@ -45,20 +76,14 @@ Equipment, Loot
 * Odrienne lelke ékkő
 * Optikai pontosságú kristályok
 
-Actual Compel
-------
-x
 
-Megjelenés
-------
+## Megjelenés
 Magas, nyúlánk humanoid macskaféle.
 
-Rokonok
-------
+## Rokonok
 Apja: Chedar Broslowski
 
-Background
-------
+## Háttér
 A multikulti FŰRÉSZ Unióból származik, szülei a Tudós Hernyók bolygóján voltak diplomaták.
 Már fiatal korában kiütközött a fényes tárgyak eltulajdonításának vágya, emiatt sokszor kellemetlen helyzetbe hozta magát és szüleit.
 
