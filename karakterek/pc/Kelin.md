@@ -12,6 +12,9 @@ Aspects
 
 Stats
 ------
+<details>
+  <summary>Faith Accelerated statisztikák szerint</summary>
+
 * Refresh: 4
 * Faith points: 4 (2021-01-07)
 
@@ -23,7 +26,7 @@ Approaches
 * Forceful: +1
 * Quick: +5
 * Sneaky: +4
-
+</details>
 
 Stunts
 ------
