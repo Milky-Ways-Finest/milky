@@ -1,7 +1,0 @@
-nav:
-  - title: Játékos karakterek
-    dir: /karakterek/pc/
-  - title: Nem játékos karakterek
-    dir: /karakterek/npc/
-  - title: Járművek
-    dir: /karakterek/jarmuvek/
