@@ -1,1 +1,0 @@
-Fari.app fájlok
