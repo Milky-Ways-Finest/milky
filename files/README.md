@@ -1,7 +1,1 @@
----
-exclude: true
----
-Fájlok
-======
-
-Ide jöhetnek a feltöltött fájlok. PDF-ek stb.
+Ide jöhetnek a feltöltött fájlok: pdf, txt, stb.
