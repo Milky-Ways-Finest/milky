@@ -1,4 +1,3 @@
-
 ## Világleírás, szabályok, civilizációk
 
 [Milky Way's Finest wikipage](https://github.com/Milky-Ways-Finest/missions/wiki)
@@ -13,10 +12,3 @@
 
 [Ulfur](karakterek/pc/Ulfur.md)
 
----
-
-## Nem játékos karakterek
-
-[Afrodité, az élő hajtómű](karakterek/jarmuvek/Afrodite.md)
-
-[Bifff](karakterek/npc/Bifff.md)
